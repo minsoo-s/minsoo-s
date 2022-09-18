@@ -8,7 +8,7 @@
 <div align=center><h2>&#128231; E-mail</h2></div>
 <div align=center>alstn6754@gmail.com</div>
 
-<div align=center><h2>📚 STACKS</h2></div>
+<div align=center><h2>📚 Tech Stacks</h2></div>
 <div align=center>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
