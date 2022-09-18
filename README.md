@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontAlign=50&fontAlignY=30&text=minsoo-s&fontSize=50) 
 
-<div align=center>Hello, I'm minsoo</div>
+<div align=center>Hello, I'm minsoo.</div>
 <div align=center>Now, I'm learning Data Analysis at Kyungpook National University(K-digital-training).</div>
 <div align=center>My goal is to give good influence to society.</div>
 
