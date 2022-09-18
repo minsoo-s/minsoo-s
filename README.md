@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontAlign=50&fontAlignY=30&text=minsoo-s&fontSize=50) 
+
+![test](https://user-images.githubusercontent.com/108928895/190897143-810be9a2-fbe0-4736-817a-74bfae227166.jpg)
+
 <div align=center>Hello, I'm minsoo</div>
 <div align=center>Now, I'm learning Data Anlaysis at Kyungbook National University(K-digital-training).</div>
 <div align=center>My goal is to give good influence to society.</div>
-![KakaoTalk_20220918_180021243](https://user-images.githubusercontent.com/108928895/190897072-d03f9510-6e9f-4c1e-a08d-238156e0f9b2.jpg)
+
 
 <div align=center><h2>&#128231; E-mail</h2></div>
 <div align=center>alstn6754@gmail.com</div>
