@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontAlign=50&fontAlignY=30&text=minsoo-s&fontSize=50) 
 
+<div align=center><h3>Who am I?</h3></div>
     
-<div align=center>:smile_cat:Hello, I'm minsoo.</div>
-<div align=center>Now, I'm learning Data Analysis at Kyungpook National University(K-digital-training).</div>
+<div align=center>:smile_cat:Hello, I'm minsoo. My major is Electronic Engineering.</div>
+<div align=center>I'm currently learning Data Analysis at Kyungpook National University(K-digital-training).</div>
+<div align=center>And I love to run under the star-filled night sky</div>
 <div align=center>My goal is to give good influence to society.</div>
 
 <div align=center>
@@ -39,3 +41,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsoo-s&show_icons=true)
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontAlign=50&fontAlignY=30&&fontSize=50) 
