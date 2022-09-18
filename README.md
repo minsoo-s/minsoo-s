@@ -1,9 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontAlign=50&fontAlignY=30&text=minsoo-s&fontSize=50) 
 
+    
 <div align=center>Hello, I'm minsoo.</div>
 <div align=center>Now, I'm learning Data Analysis at Kyungpook National University(K-digital-training).</div>
 <div align=center>My goal is to give good influence to society.</div>
 
+<div align=center>
+<br>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C2DCE4&title_bg=%23569BCC&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 <div align=center><h2>&#128231; E-mail</h2></div>
 <div align=center>alstn6754@gmail.com</div>
