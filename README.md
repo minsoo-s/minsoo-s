@@ -14,6 +14,7 @@
 
 <div align=center><h2>&#128231; E-mail</h2></div>
 <div align=center>alstn6754@gmail.com</div>
+<div align=center>minsu0707@naver.com</div>
 
 <div align=center><h2>📚 Tech Stacks</h2></div>
 <div align=center>
@@ -28,7 +29,7 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 <br>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <br>
