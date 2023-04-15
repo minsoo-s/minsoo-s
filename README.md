@@ -3,8 +3,9 @@
 <div align=center><h3>Who am I?</h3></div>
     
 <div align=center>:smile_cat:Hello, I'm minsoo. My major is Electronic Engineering.</div>
-<div align=center>I'm currently learning Data Analysis at Kyungpook National University(K-digital-training).</div>
-<div align=center>And I love to run under the star-filled night sky</div>
+<div align=center>I'm I have completed as a Data Analysis course at Kyungpook National University(K-digital-training).</div>
+<div align=center>I've been working as a DevOps engineer since December 2022.</div>
+<div align=center>And I love to run with people under the star-filled night sky</div>
 <div align=center>My goal is to give good influence to society.</div>
 
 <div align=center>
